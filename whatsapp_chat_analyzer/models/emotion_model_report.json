@@ -1,0 +1,231 @@
+{
+  "pipeline_name": "Multi-Class Hinglish Emotion & Sentiment Classifier",
+  "version": "2.0-enhanced",
+  "architecture": "Calibrated TF-IDF Unigram+Bigram Multinomial Classifier with Emoji Polarity Fusion",
+  "num_classes": 7,
+  "classes": [
+    "anger_frustration",
+    "humor",
+    "joy",
+    "love_gratitude",
+    "neutral",
+    "sadness",
+    "stress_urgency"
+  ],
+  "total_dataset_rows": 103,
+  "train_rows": 81,
+  "test_rows": 22,
+  "vocabulary_size": 816,
+  "metrics": {
+    "overall_accuracy": 0.4091,
+    "macro_precision": 0.5286,
+    "macro_recall": 0.4167,
+    "macro_f1_score": 0.415
+  },
+  "per_class_metrics": {
+    "anger_frustration": {
+      "precision": 0.3333,
+      "recall": 0.6667,
+      "f1_score": 0.4444,
+      "support": 3
+    },
+    "humor": {
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1_score": 0.5,
+      "support": 3
+    },
+    "joy": {
+      "precision": 0.2,
+      "recall": 0.25,
+      "f1_score": 0.2222,
+      "support": 4
+    },
+    "love_gratitude": {
+      "precision": 0.5,
+      "recall": 0.6667,
+      "f1_score": 0.5714,
+      "support": 3
+    },
+    "neutral": {
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1_score": 0.5,
+      "support": 3
+    },
+    "sadness": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 3
+    },
+    "stress_urgency": {
+      "precision": 0.6667,
+      "recall": 0.6667,
+      "f1_score": 0.6667,
+      "support": 3
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "anger_frustration",
+      "humor",
+      "joy",
+      "love_gratitude",
+      "neutral",
+      "sadness",
+      "stress_urgency"
+    ],
+    "matrix": [
+      [
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      [
+        2,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    ]
+  },
+  "top_keywords": {
+    "anger_frustration": [
+      "faltu",
+      "kar",
+      "kharab",
+      "irritating",
+      "this",
+      "and",
+      "hai",
+      "bakwaas",
+      "band",
+      "apni"
+    ],
+    "humor": [
+      "haha",
+      "lol",
+      "lmao",
+      "rofl",
+      "meme",
+      "ye",
+      "funny",
+      "tha_ye",
+      "ye_lmao",
+      "that"
+    ],
+    "joy": [
+      "the",
+      "yay",
+      "we",
+      "kya",
+      "on",
+      "hai",
+      "gaya",
+      "aaj",
+      "super",
+      "champion"
+    ],
+    "love_gratitude": [
+      "you",
+      "thanks",
+      "love",
+      "so",
+      "liye",
+      "shukriya",
+      "appreciate",
+      "are",
+      "to",
+      "much"
+    ],
+    "neutral": [
+      "the",
+      "will",
+      "confirm",
+      "check",
+      "drive",
+      "and",
+      "ok",
+      "done",
+      "kal",
+      "karte"
+    ],
+    "sadness": [
+      "feeling",
+      "raha",
+      "feeling_so",
+      "lonely",
+      "hoon",
+      "mood",
+      "hai",
+      "nahi",
+      "bahut",
+      "gaya"
+    ],
+    "stress_urgency": [
+      "fast",
+      "tension",
+      "please",
+      "hai",
+      "karo",
+      "hurry",
+      "urgent",
+      "emergency",
+      "work",
+      "rahi_hai"
+    ]
+  }
+}

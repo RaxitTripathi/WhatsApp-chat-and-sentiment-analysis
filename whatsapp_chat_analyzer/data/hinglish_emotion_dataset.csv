@@ -1,0 +1,104 @@
+text,emotion,sentiment
+"this is amazing news so thrilled",joy,positive
+"congrats on the win you deserved it champion",joy,positive
+"so happy for you today yay we did it",joy,positive
+"great job everyone celebration time",joy,positive
+"what a fantastic day feeling on top of the world",joy,positive
+"mast hai bro ekdum badiya maza aa gaya",joy,positive
+"bahut khush hoon aaj kya din hai",joy,positive
+"kamaal kar diya tune full party scene",joy,positive
+"ekdum jhakas celebration super happy",joy,positive
+"bohot badiya news sunke dil khush ho gaya",joy,positive
+"woohoo we finally cracked the exam",joy,positive
+"zabardast victory party karenge aaj",joy,positive
+"feeling super energetic and joyful",joy,positive
+"kya baat hai bhai champion ban gaya tu",joy,positive
+"super excited for the trip yay",joy,positive
+"best day ever full enjoy kiya",joy,positive
+"we won the match kya mast victory hai",joy,positive
+"party on rohan treat dega aaj",joy,positive
+"yay everything worked out perfectly",joy,positive
+"thanks so much for your help really appreciate it",love_gratitude,positive
+"I love this idea so heartwarming",love_gratitude,positive
+"you guys are the best grateful to have you",love_gratitude,positive
+"thank you for always supporting me brother",love_gratitude,positive
+"I appreciate you a lot heartfelt thanks",love_gratitude,positive
+"bahut shukriya madad ke liye dost",love_gratitude,positive
+"dil se thanks yaar you are a gem",love_gratitude,positive
+"love spending time with you all pure vibes",love_gratitude,positive
+"kitna pyaara insaan hai tu shukriya",love_gratitude,positive
+"bahut respect aur pyaar aapke liye",love_gratitude,positive
+"thank you so much aditi you saved me",love_gratitude,positive
+"grateful for this wonderful team",love_gratitude,positive
+"so sweet of you thanks a ton",love_gratitude,positive
+"lots of love and hugs to everyone",love_gratitude,positive
+"bhai dil jeet liya tune shukriya",love_gratitude,positive
+"that is hilarious lol can't stop laughing",humor,positive
+"haha that meme killed me rofl",humor,positive
+"best joke ever literally crying laughing haha",humor,positive
+"lmao look at his face so funny",humor,positive
+"bhai kya comedy chal rahi hai yahan haha",humor,positive
+"has has ke pet dard ho gaya yaar lol",humor,positive
+"arre bhai joke of the year tha ye lmao",humor,positive
+"gazab roasting ki tune uski lol haha",humor,positive
+"ye video dekh ke hasi nahi ruk rahi rofl",humor,positive
+"too funny bro totally cracked me up haha",humor,positive
+"rofl laughing out loud epic meme",humor,positive
+"karan tu comedy king hai lol",humor,positive
+"itna hasaya tune aaj haha",humor,positive
+"bhai meme of the century tha ye lmao",humor,positive
+"I'm honestly so stressed about my project deadline",stress_urgency,negative
+"so much tension exam is tomorrow morning",stress_urgency,negative
+"deadline is in one hour hurry up please fast",stress_urgency,negative
+"urgent please reply ASAP emergency work",stress_urgency,negative
+"feeling overwhelmed with heavy work load and tension",stress_urgency,negative
+"bohot tension ho rahi hai viva ki yaar",stress_urgency,negative
+"fat rahi hai bhai exam me kya aayega emergency",stress_urgency,negative
+"jaldi submit karo submission close hone wala hai",stress_urgency,negative
+"panic mode on syllabus complete nahi hua",stress_urgency,negative
+"time bohot kam hai fast karo please hurry",stress_urgency,negative
+"urgent call back immediately need help fast",stress_urgency,negative
+"viva submission is due in 30 minutes rush",stress_urgency,negative
+"so anxious and stressed out right now",stress_urgency,negative
+"deadline miss ho jayegi jaldi bhejo",stress_urgency,negative
+"feeling super sad and heartbroken today",sadness,negative
+"I'm really disappointed with how things turned out",sadness,negative
+"everything is falling apart feeling so low",sadness,negative
+"miss those good old days lonely feeling",sadness,negative
+"sed life bro mood ekdum down hai",sadness,negative
+"bahut udaas hoon aaj kuch accha nahi lag raha",sadness,negative
+"dukhi ho gaya ye sunke regret ho raha hai",sadness,negative
+"dil toot gaya yaar itni mehnat ke baad bhi",sadness,negative
+"crying inside nothing went as planned",sadness,negative
+"mood off hai baat karne ka man nahi",sadness,negative
+"feeling so lonely and depressed today",sadness,negative
+"heartbroken and completely demoralized",sadness,negative
+"bahut ro raha hoon andar se sab khatam",sadness,negative
+"sad news feeling hopeless",sadness,negative
+"this is so frustrating and annoying sick of it",anger_frustration,negative
+"why does this always happen furious right now",anger_frustration,negative
+"worst service ever completely unacceptable",anger_frustration,negative
+"stop irritating me and stay away",anger_frustration,negative
+"aaj bahut bakwas din tha dimag kharab ho gaya",anger_frustration,negative
+"bahut gussa aa raha hai is harkat par",anger_frustration,negative
+"yeh bilkul faltu aur ghatiya kaam hai",anger_frustration,negative
+"faltu bakwaas band kar apni",anger_frustration,negative
+"poora mood kharab kar diya stupid mistake ne",anger_frustration,negative
+"disgusting behavior absolutely pissed off",anger_frustration,negative
+"dimag ka dahi kar diya bakwas logo ne",anger_frustration,negative
+"irritating useless rubbish shut up",anger_frustration,negative
+"itna gussa aa raha hai kya bataun",anger_frustration,negative
+"meeting is scheduled for 5 pm today",neutral,neutral
+"please check the document and pdf attached",neutral,neutral
+"what is the venue for the lecture tomorrow",neutral,neutral
+"shared the slides on email and drive",neutral,neutral
+"okay noted will check it out later",neutral,neutral
+"notes bhej dena drive par jab time mile",neutral,neutral
+"kal kitne baje aana hai bata dena",neutral,neutral
+"thik hai attendance lag gayi",neutral,neutral
+"link send kiya hai zoom ka join karlo",neutral,neutral
+"ok done kal baat karte hain class me",neutral,neutral
+"presentation starts at 10 am in room 302",neutral,neutral
+"yes sir will upload the file shortly",neutral,neutral
+"received the files will confirm by evening",neutral,neutral
+"can someone confirm the classroom number",neutral,neutral
